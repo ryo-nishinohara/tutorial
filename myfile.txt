@@ -1,2 +1,3 @@
 RyoNsihinoharaのGitコマンド
 add 変更をインデックスに登録する
+issue1で追加
