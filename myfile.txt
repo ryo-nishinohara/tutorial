@@ -2,3 +2,4 @@ RyoNsihinoharaのGitコマンド
 add 変更をインデックスに登録する
 issue1で追加
 isssue2で追加
+issue3で追加
